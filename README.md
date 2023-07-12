@@ -1,0 +1,1 @@
+# MagicVillaApp is a test project of creating and consuming web apis using c#. Project starts by creating the web api and related SQL DB then expose its endpoints to any client to consume the API. We then finally secure the API lastly to enure that we use JWT tokens and other security measures before deploying the api to Azure
